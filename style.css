@@ -1,0 +1,163 @@
+/* common shared style*/
+body{
+    font-family: 'Lato' sans-serif;
+    font-family: 'Open Sans' ,sans-serif;
+}
+/* header style start*/
+.banner{
+    display: flex;
+    background-color: #FFF8F3;
+    gap: 20px;
+}
+.flower-section{
+    margin: 200px 200px;
+}
+.img{
+    height: 800px;
+    width: 600px;
+}
+.h1{
+    font-size: 40px;
+}
+.btn{
+    color: white;
+    background-color: #E55473;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+}
+.p1{
+    color: #474747;
+}
+.featured-section{
+    text-align: center;
+    margin: 100px 50px;
+
+}
+.p2{
+    color: #474747;
+
+}
+
+.bonus{
+    display: flex;
+    margin-bottom: 50px;
+    gap: 10px;
+    padding: 0 50px;
+}
+.div1{
+    background-color: lightpink;
+    border-radius: 50px 50px;
+    
+}
+.div2{
+    background-color: lightblue;
+    border-radius: 50px 50px
+}
+.div3{
+    background-color: lightgray;
+    border-radius: 50px 50px
+}
+/* main style start*/
+.deal-section{
+    display: flex;
+    background-color: #FFF8F3;
+    font-size: large;
+    gap: 50px;
+    
+}
+.img2{
+    height: 420px ;
+    width:318px;
+}
+.p3{
+    color: #474747;
+    font-size: small;
+}
+.hotdeal{
+    margin: 100px 300px;
+}
+.btn2{
+   width:  120px;
+   height:  40px;
+   background-color: #E55473;
+   color: white;
+   border-radius: 10px;
+   margin-left: 50px;
+}
+.hot{
+    font-size: 25px;
+}
+.span{
+    color: #E55473;
+}
+.p4{
+    color: #474747;
+    font-size: 15px;
+}
+.instagram{
+    text-align: center;
+    margin: 50px 50px;
+}
+.img-section, img{
+    display: flex;
+    gap: 5px;
+    width: 350px;
+    height: 300px;
+    margin: 0 20px;
+    padding: 0 2px;
+}
+.img-section{
+    margin-bottom: 100px;
+}
+.get-section{
+   background-image: url(images/Rectangle\ 9.png);
+   height: 350px;
+   width: 1200px;
+   margin: 100px 100px;
+}
+.latest-deal{
+    text-align: center;
+    padding: 70px 20px;
+}
+.input{
+    height: 30px;
+    width: 480px;
+    border-radius: 5px;
+    color: #474747;
+}
+.p5{
+    color: #474747;
+    font-size: small;
+}
+.btn3{
+    width:  120px;
+   height:  40px;
+   background-color: #E55473;
+   color: white;
+   border-radius: 10px;
+   margin-left: 50px;
+}
+/* footer style start*/
+.footer{
+    background-color: black;
+    height: 350px;
+    width: 1200px;
+    margin: 0 50px;
+
+}
+.flower{
+    color: #E55473;
+}
+.p6{
+    color: white;
+    font-size: small;
+}
+.footer-end{
+    text-align: center;
+    padding: 100px 400px;
+}
+.p7{
+    color: #474747;
+    font-size: small;
+}
